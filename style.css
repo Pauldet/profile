@@ -58,8 +58,8 @@ p{
   color: rgb(200,200,200);
 }
 .list-inline {
-
   color: rgb(200,200,200);
+  padding: 0px;
 
 }
 .list-inline > li {
